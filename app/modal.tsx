@@ -10,6 +10,8 @@ export default function ModalScreen() {
       <ThemedText type="title">This is a modal</ThemedText>
       <Link href="/" dismissTo style={styles.link}>
         <ThemedText type="link">Home</ThemedText>
+        <ThemedText type="link">Home</ThemedText>
+        <ThemedText type="link">Home</ThemedText>
       </Link>
     </ThemedView>
   );
